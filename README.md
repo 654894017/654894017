@@ -53,5 +53,5 @@
 
 <!-- 访客统计 -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=你的用户名.你的用户名" alt="访客数量"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=654894017" alt="访客数量"/>
 </p>
