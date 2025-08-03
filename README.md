@@ -9,7 +9,7 @@
 <!-- 个人标签 -->
 <p align="center">
   <a href="https://你的网站"><img src="https://img.shields.io/badge/网站-探索我的宇宙-blueviolet?style=flat-square"></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/邮箱-发送消息-critical?style=flat-square"></a>
+  <a href="mailto:654894017@qq.com"><img src="https://img.shields.io/badge/邮箱-发送消息-critical?style=flat-square"></a>
   <a href="你的社交媒体"><img src="https://img.shields.io/badge/社交-来交个朋友-9cf?style=flat-square"></a>
 </p>
 
