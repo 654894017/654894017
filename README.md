@@ -24,10 +24,9 @@
 <!-- 技术栈展示 -->
 <h3 align="center">💻 我的技术工具箱</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/语言-Java-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/语言-Java-3776AB?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/前端-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/框架-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/数据库-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/数据库-Mysql-336791?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- 根据你的技能替换 -->
 </p>
 
