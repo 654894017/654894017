@@ -51,7 +51,3 @@
   <p>感谢你的来访！如果喜欢我的项目，别忘了点亮 ⭐ 哦~</p>
 </div>
 
-<!-- 访客统计 -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/654894017/count.svg" alt="访客数量" />
-</p>
