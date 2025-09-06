@@ -1,18 +1,12 @@
 - 开源项目
     - `CQRS` [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
-    - `Java`工具库 [🌎 `alibaba/java-dns-cache-manipulator` ![GitHub stars](https://img.shields.io/github/stars/alibaba/java-dns-cache-manipulator.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/java-dns-cache-manipulator)
-    - `Java`并发库 [🦝 `foldright/cffu(CompletableFuture-Fu)` ![GitHub stars](https://img.shields.io/github/stars/foldright/cffu.svg?style=flat-square&color=3b8686)](https://github.com/foldright/cffu)
-    - `Java`规范库 [🪐 `foldright/inspectable-wrappers` ![GitHub stars](https://img.shields.io/github/stars/foldright/inspectable-wrappers.svg?style=flat-square&color=3b8686)](https://github.com/foldright/inspectable-wrappers)
-    - 脚本集 [🐌 `oldratlee/useful-scripts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/useful-scripts)
-    - `Java`工具 [🔍 `foldright/jstrdups` ![GitHub stars](https://img.shields.io/github/stars/foldright/jstrdups.svg?style=flat-square&color=3b8686)](https://github.com/foldright/jstrdups)
-    - 实践文集 [🐣 `oldratlee/software-practice-thoughts` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/software-practice-thoughts.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/software-practice-thoughts)
-        - 淘宝`Reactive`实践记录 [`oldratlee/reactive-practice-at-taobao` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/reactive-practice-at-taobao.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/reactive-practice-at-taobao)
-        - 并发问题`showcase` [`oldratlee/fucking-java-concurrency` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/fucking-java-concurrency.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/fucking-java-concurrency)
-        - 通用`API`设计与实现示例 [`oldratlee/io-api` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/io-api.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/io-api)
-        - `Java ClassLoader`容器的设计与实现 [`oldratlee/land` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/land.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/land)
-        - `Vim`实践日志 [`oldratlee/vim-practice` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/vim-practice.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/vim-practice)
-    - 翻译集 [🐼 `oldratlee/translations` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/translations.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/translations)
-    - `RPC`中间件 [🧲 `apache/dubbo` ![GitHub stars](https://img.shields.io/github/stars/apache/dubbo.svg?style=flat-square&color=3b8686)](https://github.com/apache/dubbo) 核心开发者之一
+    - `TCC`事务框架 [🌎 `654894017/tcc` ![GitHub stars](https://img.shields.io/github/stars/654894017/tcc.svg?style=flat-square&color=3b8686)](https://github.com/654894017/tcc)
+    - `workflow`工作流框架 [🪐 `654894017/workflow` ![GitHub stars](https://img.shields.io/github/stars/654894017/workflow.svg?style=flat-square&color=3b8686)](https://github.com/654894017/workflow)
+    - `local_msg_table`本地消息表 [🐌 `654894017/local_msg_table` ![GitHub stars](https://img.shields.io/github/stars/654894017/local_msg_table.svg?style=flat-square&color=3b8686)](https://github.com/654894017/local_msg_table)
+    - `formula`公式引擎 [🧲 `654894017/formula` ![GitHub stars](https://img.shields.io/github/stars/654894017/formula.svg?style=flat-square&color=3b8686)](https://github.com/654894017/formula)
+    - `matching-engine`撮合引擎 [🔍 `654894017/matching-engine` ![GitHub stars](https://img.shields.io/github/stars/654894017/matching-engine.svg?style=flat-square&color=3b8686)](https://github.com/654894017/matching-engine)
+    - `aggregate-persistence`聚合根存储 [🔍 `654894017/aggregate-persistence` ![GitHub stars](https://img.shields.io/github/stars/654894017/aggregate-persistence.svg?style=flat-square&color=3b8686)](https://github.com/654894017/aggregate-persistence)
+
 <!-- 个人标签 -->
 <!-- 动态标题 -->
 <h1 align="center">
