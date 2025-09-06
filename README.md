@@ -1,5 +1,5 @@
 - 开源项目
-    - `CQRS [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
+    - `CQRS [📌 `654894017/cqrs ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
     - `Java`工具库 [🌎 `alibaba/java-dns-cache-manipulator` ![GitHub stars](https://img.shields.io/github/stars/alibaba/java-dns-cache-manipulator.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/java-dns-cache-manipulator)
     - `Java`并发库 [🦝 `foldright/cffu(CompletableFuture-Fu)` ![GitHub stars](https://img.shields.io/github/stars/foldright/cffu.svg?style=flat-square&color=3b8686)](https://github.com/foldright/cffu)
     - `Java`规范库 [🪐 `foldright/inspectable-wrappers` ![GitHub stars](https://img.shields.io/github/stars/foldright/inspectable-wrappers.svg?style=flat-square&color=3b8686)](https://github.com/foldright/inspectable-wrappers)
