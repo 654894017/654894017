@@ -1,10 +1,3 @@
-<!-- 动态标题 -->
-<h1 align="center">
-  <a href="https://github.com/你的用户名">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  </a>
-  嘿，我是 [DAMON]
-</h1>
 - 开源项目
     - `Java`基础库 [📌 `alibaba/transmittable-thread-local` ![GitHub stars](https://img.shields.io/github/stars/alibaba/transmittable-thread-local.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/transmittable-thread-local)
     - `Java`工具库 [🌎 `alibaba/java-dns-cache-manipulator` ![GitHub stars](https://img.shields.io/github/stars/alibaba/java-dns-cache-manipulator.svg?style=flat-square&color=3b8686)](https://github.com/alibaba/java-dns-cache-manipulator)
@@ -21,6 +14,13 @@
     - 翻译集 [🐼 `oldratlee/translations` ![GitHub stars](https://img.shields.io/github/stars/oldratlee/translations.svg?style=flat-square&color=3b8686)](https://github.com/oldratlee/translations)
     - `RPC`中间件 [🧲 `apache/dubbo` ![GitHub stars](https://img.shields.io/github/stars/apache/dubbo.svg?style=flat-square&color=3b8686)](https://github.com/apache/dubbo) 核心开发者之一
 <!-- 个人标签 -->
+<!-- 动态标题 -->
+<h1 align="center">
+  <a href="https://github.com/你的用户名">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+  嘿，我是 [DAMON]
+</h1>
 <p align="center">
   <a href="https://你的网站"><img src="https://img.shields.io/badge/网站-探索我的宇宙-blueviolet?style=flat-square"></a>
   <a href="mailto:654894017@qq.com"><img src="https://img.shields.io/badge/邮箱-发送消息-critical?style=flat-square"></a>
