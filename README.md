@@ -1,6 +1,6 @@
 - 开源项目
-    - `CQRS` [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
-    - `TCC`事务框架 [🌎 `654894017/tcc` ![GitHub stars](https://img.shields.io/github/stars/654894017/tcc.svg?style=flat-square&color=3b8686)](https://github.com/654894017/tcc)
+    - `cqrs` [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
+    - `tcc`事务框架 [🌎 `654894017/tcc` ![GitHub stars](https://img.shields.io/github/stars/654894017/tcc.svg?style=flat-square&color=3b8686)](https://github.com/654894017/tcc)
     - `workflow`工作流框架 [🪐 `654894017/workflow` ![GitHub stars](https://img.shields.io/github/stars/654894017/workflow.svg?style=flat-square&color=3b8686)](https://github.com/654894017/workflow)
     - `local-msg-table`本地消息表 [🐌 `654894017/local-msg-table` ![GitHub stars](https://img.shields.io/github/stars/654894017/local-msg-table.svg?style=flat-square&color=3b8686)](https://github.com/654894017/local-msg-table)
     - `formula`公式引擎 [🧲 `654894017/formula` ![GitHub stars](https://img.shields.io/github/stars/654894017/formula.svg?style=flat-square&color=3b8686)](https://github.com/654894017/formula)
