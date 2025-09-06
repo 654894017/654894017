@@ -2,10 +2,11 @@
     - `CQRS` [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
     - `TCC`事务框架 [🌎 `654894017/tcc` ![GitHub stars](https://img.shields.io/github/stars/654894017/tcc.svg?style=flat-square&color=3b8686)](https://github.com/654894017/tcc)
     - `workflow`工作流框架 [🪐 `654894017/workflow` ![GitHub stars](https://img.shields.io/github/stars/654894017/workflow.svg?style=flat-square&color=3b8686)](https://github.com/654894017/workflow)
-    - `local_msg_table`本地消息表 [🐌 `654894017/local_msg_table` ![GitHub stars](https://img.shields.io/github/stars/654894017/local_msg_table.svg?style=flat-square&color=3b8686)](https://github.com/654894017/local_msg_table)
+    - `local_msg_table`本地消息表 [🐌 `654894017/local-msg-table` ![GitHub stars](https://img.shields.io/github/stars/654894017/local-msg-table.svg?style=flat-square&color=3b8686)](https://github.com/654894017/local-msg-table)
     - `formula`公式引擎 [🧲 `654894017/formula` ![GitHub stars](https://img.shields.io/github/stars/654894017/formula.svg?style=flat-square&color=3b8686)](https://github.com/654894017/formula)
     - `matching-engine`撮合引擎 [🔍 `654894017/matching-engine` ![GitHub stars](https://img.shields.io/github/stars/654894017/matching-engine.svg?style=flat-square&color=3b8686)](https://github.com/654894017/matching-engine)
     - `aggregate-persistence`聚合根存储 [🔍 `654894017/aggregate-persistence` ![GitHub stars](https://img.shields.io/github/stars/654894017/aggregate-persistence.svg?style=flat-square&color=3b8686)](https://github.com/654894017/aggregate-persistence)
+
 
 <!-- 个人标签 -->
 <!-- 动态标题 -->
