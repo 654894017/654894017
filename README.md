@@ -1,5 +1,5 @@
 - 开源项目
-    - `cqrs` [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
+    - `cqrs`事件溯源 [📌 `654894017/cqrs` ![GitHub stars](https://img.shields.io/github/stars/654894017/cqrs.svg?style=flat-square&color=3b8686)](https://github.com/654894017/cqrs)
     - `tcc`事务框架 [🌎 `654894017/tcc` ![GitHub stars](https://img.shields.io/github/stars/654894017/tcc.svg?style=flat-square&color=3b8686)](https://github.com/654894017/tcc)
     - `workflow`工作流框架 [🪐 `654894017/workflow` ![GitHub stars](https://img.shields.io/github/stars/654894017/workflow.svg?style=flat-square&color=3b8686)](https://github.com/654894017/workflow)
     - `local-msg-table`本地消息表 [🐌 `654894017/local-msg-table` ![GitHub stars](https://img.shields.io/github/stars/654894017/local-msg-table.svg?style=flat-square&color=3b8686)](https://github.com/654894017/local-msg-table)
